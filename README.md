@@ -1,2 +1,2 @@
 # hello-world
-Gitti harjoittelua lol
+Gitti harjoittelua
